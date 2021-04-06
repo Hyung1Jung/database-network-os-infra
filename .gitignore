@@ -17,7 +17,6 @@ bin/
 !**/src/test/**/bin/
 
 ### IntelliJ IDEA ###
-.xml
 .idea
 *.iws
 *.iml
@@ -25,8 +24,6 @@ bin/
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-application-local.yml
-application.yml
 
 ### NetBeans ###
 /nbproject/private/
@@ -37,7 +34,3 @@ application.yml
 
 ### VS Code ###
 .vscode/
-
-
-
-
