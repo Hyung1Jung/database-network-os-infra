@@ -14,6 +14,11 @@
 * [Proxy](https://junghyungil.tistory.com/114?category=892281)
 * [커넥션 풀을 사용하지 않았을때 발생하는 "비용"은 구체적으로 어떤 비용일까? 네트워크와 관련하여 비용에 관한 고찰](https://junghyungil.tistory.com/129?category=892328)
 
+## Redis
+- [사용자가 늘어나면 서버를 어떻게 확장해야할까? 스케일 업(Scale-up) vs 스케일 아웃(Scale-out)](https://junghyungil.tistory.com/151?category=952148)
+- [Redis vs memcached vs RDBMS](https://junghyungil.tistory.com/165)
+- [Redis(Remote dictionary server)란?](https://junghyungil.tistory.com/162)
+- [Redis 연동하기 및 Spring Boot Redis Docs 살펴보기](https://junghyungil.tistory.com/166)
 
 ## OS
 - * [인터럽트(interrupt)](https://junghyungil.tistory.com/130?category=892324)
